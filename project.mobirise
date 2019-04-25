@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 7,
+    "uniqCompNum": 4,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -517,7 +517,7 @@
               "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#149dcc"
+              "color": "#f7ed4a"
             }
           },
           "_name": "header3",
