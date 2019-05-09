@@ -1879,7 +1879,7 @@ body {
   height: 100%;
   padding: 30px 30px;
   color: #ffffff;
-  background-color: #55b4d4;
+  background-color: #cccccc;
   z-index: 1;
   margin: 0;
   text-align: center;
@@ -1922,10 +1922,13 @@ body {
 .cid-rpWdyh9WZd H4 {
   text-align: center;
 }
+.cid-rpWdyh9WZd P {
+  color: #232323;
+}
 .cid-roCoq78pbh {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #cccccc;
+  background-color: #767676;
 }
 .cid-roCoq78pbh .mbr-section-subtitle {
   color: #767676;
@@ -1971,7 +1974,7 @@ body {
   height: 100%;
   padding: 30px 30px;
   color: #ffffff;
-  background-color: #55b4d4;
+  background-color: #767676;
   z-index: 1;
   margin: 0;
   text-align: center;
