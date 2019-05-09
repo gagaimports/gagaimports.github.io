@@ -659,7 +659,8 @@
               "text-align": "center"
             },
             "P": {
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "center"
             }
           },
           "_name": "features15",
